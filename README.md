@@ -1,1 +1,2 @@
 # Vendor-Analysis-Project
+This project aims to design and implement a robust data engineering solution to support advanced analytics for sales performance, inventory turnover, and vendor profitability in a retail and wholesale environment. The primary objective is to build a scalable, secure, and high-performance data infrastructure that enables analysts and decision-makers to identify inefficiencies in pricing, vendor management, and inventory operations.
